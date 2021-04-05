@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Data-structures-Algorithms
 - 👯 I’m looking to collaborate on Open source projects,Coding and Hackathons
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact:I love to watch web series,Dancing and love to travel
+- ⚡ Fun fact: I love to watch web series,Dancing and love to travel
 
 
 
@@ -22,7 +22,6 @@
 
 
 ![Visitor Count](https://profile-counter.glitch.me/AmpoluNisa03/count.svg)
-
 
 
 
