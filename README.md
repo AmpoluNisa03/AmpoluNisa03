@@ -7,9 +7,15 @@
 - 👯 I’m looking to collaborate on Open source projects,Coding and Hackathons
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me:nisaampolu@gmail.com,https://www.linkedin.com/in/ampolu-nisa-805a201a2,twilight_queenbee.33
 - 😄 Pronouns: Nisha
 - ⚡ Fun fact:One thing on my bucket list is to travel more 
+- <h2 align=center> Let's get connected now!</h2> <br>
+
+<p align = 'center'>
+<a href = https://github.com/AmpoluNisa03 target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='45' weight='45'/></a>
+<a href = https://www.linkedin.com/in/ampolu-nisa-805a201a2/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='45' weight='45'/></a> 
+<a href = https://www.instagram.com/twilight_queenbee.33/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg height='45' weight='45'/></a>
+</a>
 
 
 
