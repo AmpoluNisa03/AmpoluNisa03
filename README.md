@@ -4,12 +4,12 @@
 
 - 🔭 I’m currently working on Cloud & Data science
 - 🌱 I’m currently learning Data-structures-Algorithms
-- 👯 I’m looking to collaborate on Open source projects.
+- 👯 I’m looking to collaborate on Open source projects,Coding and Hackathons
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me:nisaampolu@gmail.com,https://www.linkedin.com/in/ampolu-nisa-805a201a2,twilight_queenbee.33
 - 😄 Pronouns: Nisha
-- ⚡ Fun fact: ...
+- ⚡ Fun fact:One thing on my bucket list is to travel more 
 
 
 
