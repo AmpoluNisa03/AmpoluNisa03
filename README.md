@@ -32,7 +32,5 @@
 <a href = https://www.linkedin.com/in/ampolu-nisa-805a201a2/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='45' weight='45'/></a> 
 <a href = https://www.instagram.com/twilight_queenbee.33/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg height='45' weight='45'/></a>
 </a>
-[gmail]: mailto:nisaampolu@gmail.com
-[telegram]: https://telegram.me/AmpoluNisa
 
 
