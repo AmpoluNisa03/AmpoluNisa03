@@ -11,10 +11,7 @@
 - ⚡ Fun fact: I love to watch web series/movies,Dancing and travelling
 
 
-![Ampolu Nisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmpoluNisa03&show_icons=true&theme=merko)
-
-
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=AmpoluNisa03&theme=merko&hide_langs_below=4' align="middle" />
+![Ampolu Nisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmpoluNisa03&show_icons=true&theme=merko)     <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=AmpoluNisa03&theme=merko&hide_langs_below=4' align="middle" />
 
 
 **Languages and Tools:**  
@@ -27,10 +24,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>  
 <code><img height="30" src="https://www.qwiklabs.com/qwiklabs_logo_900x887.png"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>  
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/AmpoluNisa03/github-readme-stats)*
-
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats]*
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AmpoluNisa03" alt="AmpoluNisa03" /></a> </p>
 
