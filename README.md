@@ -1,5 +1,5 @@
 
-### Hello there I'm Nisa<img src="https://github.com/AmpoluNisa03/AmpoluNisa03/blob/master/Assests/Hi.gif" width="29px">
+### Hello there I'm Nisa<img src="https://github.com/AmpoluNisa03/AmpoluNisa03/blob/main/Assets/Hi.gif" width="29px">
 <img align='right' src="https://media.giphy.com/media/xT39CV47COkGPZO3HG/giphy.gif" width="200">
 
 
@@ -19,7 +19,7 @@
 
 **Languages and Tools:**  
 
-<code><img height="30" src="https://github.com/AmpoluNisa03/AmpoluNisa03/blob/master/Assests/the-c-programming-language-computer-programming-png-1600x1600px-c-programming-language-png-820_819.jpg"></code>
+<code><img height="30" src="https://github.com/AmpoluNisa03/AmpoluNisa03/blob/main/Assets/the-c-programming-language-computer-programming-png-1600x1600px-c-programming-language-png-820_819.jpg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
