@@ -1,6 +1,6 @@
 
 ### Hell there I'm Nisa<img src="https://github.com/AmpoluNisa03/AmpoluNisa03/blob/master/Assests/Hi.gif" width="29px">
-
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
 - 🔭 I’m currently working on Cloud & Data science
@@ -11,7 +11,8 @@
 - ⚡ Fun fact: I love to watch web series/movies,Dancing and travelling
 
 
-![Ampolu Nisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmpoluNisa03&show_icons=true&theme=merko)     <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=AmpoluNisa03&theme=merko&hide_langs_below=4' align="middle" />
+<img src='https://github-readme-stats.vercel.app/api?username=AmpoluNisa03&show_icons=true&theme=merko&count_private=true&line_height=40'  align="left" />
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=AmpoluNisa03&theme=merko&hide_langs_below=4' align="middle" />
 
 
 **Languages and Tools:**  
