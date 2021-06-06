@@ -1,5 +1,5 @@
 
-### Hello there I'm Nisa<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fwave-emoji-gif-10359633&psig=AOvVaw2BfImNilpKX-Uej2pzf31N&ust=1623044536798000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPDLmqCmgvECFQAAAAAdAAAAABAm" width="29px">
+### Hello there I'm Nisa<img src="https://media1.tenor.com/images/dc4e4c324a8ceaa5b088758489673deb/tenor.gif?itemid=10359633" width="29px">
 <img align='right' src="https://media.giphy.com/media/xT39CV47COkGPZO3HG/giphy.gif" width="220">
 
 
@@ -12,7 +12,8 @@
 
 
 <img src='https://github-readme-stats.vercel.app/api?username=AmpoluNisa03&show_icons=true&theme=merko&count_private=true&line_height=40' align="left" />
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=AmpoluNisa03&theme=merko&hide_langs_below=4' align="middle" />
+
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=AmpoluNisa03&theme=merko&hide_langs_below=4' align="left" />
 
 
 **Languages and Tools:**  
