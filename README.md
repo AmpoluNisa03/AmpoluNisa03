@@ -14,7 +14,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmpoluNisa03&layout=compact)](https://github.com/AmpoluNisa03/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmpoluNisa03&langs_count=8)](https://github.com/AmpoluNisa03/github-readme-stats)
 
 
 
