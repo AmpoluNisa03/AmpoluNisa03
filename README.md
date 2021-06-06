@@ -1,6 +1,6 @@
 
 ### Hell there I'm Nisa<img src="https://github.com/AmpoluNisa03/AmpoluNisa03/blob/master/Assests/Hi.gif" width="29px">
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/xT39CV47COkGPZO3HG/giphy.gif" width="230">
 
 
 - 🔭 I’m currently working on Cloud & Data science
