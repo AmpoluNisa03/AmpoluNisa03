@@ -10,9 +10,6 @@
 - ⚡ Fun fact: I love to watch web series/movies,Dancing and travelling
 
 
-[![Ampolu Nisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmpoluNisa03)](https://github.com/AmpoluNisa03/github-readme-stats)
-
-
 ![Ampolu Nisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmpoluNisa03&show_icons=true&theme=merko)
 
 
