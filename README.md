@@ -10,12 +10,13 @@
 - ⚡ Fun fact: I love to watch web series/movies,Dancing and travelling
 
 
+[![Ampolu Nisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmpoluNisa03)](https://github.com/AmpoluNisa03/github-readme-stats)
+
+
 ![Ampolu Nisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmpoluNisa03&show_icons=true&theme=merko)
 
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmpoluNisa03)](https://github.com/AmpoluNisa03/github-readme-stats)
-
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AmpoluNisa03" alt="AmpoluNisa03" /></a> </p>
