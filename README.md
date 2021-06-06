@@ -10,9 +10,7 @@
 - ⚡ Fun fact: I love to watch web series/movies,Dancing and travelling
 
 
-
-
-<img src='https://github-readme-stats.vercel.app/api?username=AmpoluNisa03&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
+![Ampolu Nisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmpoluNisa03&show_icons=true&theme=radical)
 
 
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=AmpoluNisa03&theme=tokyonight&hide_langs_below=4' align="middle" />
