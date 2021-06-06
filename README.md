@@ -1,5 +1,5 @@
 
-### Hello there I'm Nisa<img src="https://media1.tenor.com/images/dc4e4c324a8ceaa5b088758489673deb/tenor.gif?itemid=10359633" width="29px">
+### Hello there I'm Nisa<img src="https://github.com/AmpoluNisa03/AmpoluNisa03/blob/master/Assests/Hi.gif?raw=true" width="29px">
 <img align='right' src="https://media.giphy.com/media/xT39CV47COkGPZO3HG/giphy.gif" width="220">
 
 
@@ -12,6 +12,7 @@
 
 
 <img src='https://github-readme-stats.vercel.app/api?username=AmpoluNisa03&show_icons=true&theme=merko&count_private=true&line_height=40' align="left" />
+
 
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=AmpoluNisa03&theme=merko&hide_langs_below=4' align="middle" />
 
