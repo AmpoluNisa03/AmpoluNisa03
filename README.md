@@ -19,7 +19,7 @@
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=AmpoluNisa03&theme=merko&hide_langs_below=4' align="middle" />
 
 
-**Languages and Tools:**  
+**Languages and Tools:📚⚙**
 
 <code><img height="30" src="https://github.com/AmpoluNisa03/AmpoluNisa03/blob/main/Assets/the-c-programming-language-computer-programming-png-1600x1600px-c-programming-language-png-820_819.jpg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
