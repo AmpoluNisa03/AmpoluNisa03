@@ -3,11 +3,12 @@
 <img align='right' src="https://media.giphy.com/media/xT39CV47COkGPZO3HG/giphy.gif" width="180" height="150">
 
 
-- 🔭 I’m currently working on Cloud & Data science
+- 🔭 I’m currently working on Data Analysis
 - 🌱 I’m currently learning Data-structures-Algorithms
 - 👯 I’m looking to collaborate on Open source projects,Coding Challenges and Hackathons
 - 📫 How to reach me : nisaampolu@gmail.com
 - 😄 Pronouns: She/Her
+- 💬 Ask me about : **Python,C**
 - ⚡ Fun fact: I love to watch web series/movies,Dancing and travelling
 
 
