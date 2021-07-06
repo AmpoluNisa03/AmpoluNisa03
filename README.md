@@ -9,7 +9,7 @@
 - 📫 How to reach me : nisaampolu@gmail.com
 - 😄 Pronouns: She/Her
 - 💬 Ask me about : **Python & C**
-- ⚡ Fun fact: I love to watch web series/movies,Dancing and travelling
+- ⚡ Fun fact : I love to watch web series/movies,Dancing and Travelling
 
 
 
