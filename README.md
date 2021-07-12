@@ -3,7 +3,7 @@
 <img align='right' src="https://media.giphy.com/media/xT39CV47COkGPZO3HG/giphy.gif" width="180" height="150">
 
 
-- 🔭 I’m currently working on Data Analysis and Web Development
+- 🔭 I’m currently working on **Data Analysis and Web Development**
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 👯 I’m looking to collaborate on Open source projects,Coding Challenges and Hackathons
 - 📫 How to reach me : nisaampolu@gmail.com
