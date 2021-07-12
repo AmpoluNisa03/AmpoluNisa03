@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on **Data Analysis and Web Development**
-- 🌱 I’m currently learning Data Structures and Algorithms
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 - 👯 I’m looking to collaborate on Open source projects,Coding Challenges and Hackathons
 - 📫 How to reach me : nisaampolu@gmail.com
 - 😄 Pronouns: She/Her
